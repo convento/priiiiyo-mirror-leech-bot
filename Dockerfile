@@ -1,4 +1,4 @@
-FROM anasty17/mega-sdk-python:latest
+FROM brutewoorse/mega-sdk-python:3.8.0
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
